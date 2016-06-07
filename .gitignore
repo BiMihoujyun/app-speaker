@@ -1,15 +1,11 @@
-
-CakePHP 3
-
-
 CakePHP 2
 
-/app/tmp/*
-/app/Config/core.php
-/app/Config/database.php
-/app/Config/bootstrap.php
-/app/Config/email.php
-/vendors/*
+tmp/*
+Config/core.php
+Config/database.php
+Config/bootstrap.php
+Config/email.php
+vendors/*
 .rocketeer/*
 .idea/*
 

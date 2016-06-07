@@ -1,0 +1,22 @@
+{
+  "name": "vendor_name/package_name",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "d11wtq/boris": "1.0.8",
+    "cakephp/cakephp": "2.7.7",
+    "cakephp/debug_kit": "2.2.6",
+    "twbs/bootstrap": "v3.3.6",
+    "slywalker/boost_cake": "1.0.6",
+    "slywalker/debug_kit_plus": "1.1.1",
+    "anahkiasen/rocketeer": "2.2.0"
+
+  }
+}

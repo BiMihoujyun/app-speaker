@@ -1,0 +1,1 @@
+<div style='background-image:url("/img/background_bar.png");text-align:center;padding-top:4px;font: bold large/150% "メイリオ";color:#fff;height: 37px;width: 300px;background-position:left top;background-repeat:no-repeat;-moz-background-size:contain;background-size:contain;' id="player_1_name" style="font-size: 40px">name</div>
